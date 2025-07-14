@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md Forhad Mia</h1>
-<h3 align="center">A passionate android developer from Bangladesh</h3>
-
-- 🔭 I’m currently working on **Pupc**
+<h3 align="center">A passionate computer science engineering student</h3>
 
 - 🌱 I’m currently learning **java**
 
