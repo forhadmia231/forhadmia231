@@ -8,7 +8,6 @@
 
 ---
 
-## 🌐 Connect with me:  
 ## 🌐 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/md-forhad-hossain-076183262)
@@ -28,9 +27,12 @@
 
 ## 📊 GitHub Stats:  ## 📊 GitHub Stats
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=forhadmia231&show_icons=true&theme=radical" alt="Forhad's GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=forhadmia231&layout=compact&theme=radical" alt="Top Langs" height="165"/>
+ 
+</p>
+<p align = "right">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=forhadmia231&layout=compact&theme=radical" alt="Top Langs" height="165"/>
 </p>
 
 
