@@ -2,7 +2,7 @@
 ### A passionate Computer Science Engineering Student 🚀  
 
 - 🌱 I’m currently learning **Java, Data Structures & Algorithms**  
-- 💬 Ask me about **Java, C, Python, OOP, DSA**  
+- 💬 Ask me about **Java,OOP, DSA**  
 - 📫 How to reach me: **forhadhossain1595@gmail.com**  
 - ⚡ Fun fact: *I love coding and solving problems!*  
 
@@ -20,7 +20,16 @@
 ---
 
 ## 🛠️ Languages and Tools:  
+<!-- Banner -->
 <img width="505" height="98" alt="image" src="https://github.com/user-attachments/assets/7b94ddbd-512b-497f-b798-fd370ae2cbf2" />
+
+<!-- Tech icons (one line) -->
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="42" alt="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="42" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="42" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="42" alt="Java" />
+</p>
 
 
 ---
