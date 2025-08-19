@@ -25,14 +25,22 @@
 
 ---
 
-## 📊 GitHub Stats:  ## 📊 GitHub Stats
+## 📊 GitHub Stats:
 
-<p align="left">
+## 📊 GitHub Stats
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=forhadmia231&show_icons=true&theme=radical" alt="Forhad's GitHub stats" height="165"/>
- 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=forhadmia231&layout=compact&theme=radical" alt="Top Langs" height="165"/>
 </p>
-<p align = "center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=forhadmia231&layout=compact&theme=radical" alt="Top Langs" height="165"/>
+
+
+
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=forhadmia231&show_icons=true&theme=radical" alt="stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=forhadmia231&layout=compact&theme=radical" alt="top langs" height="170"/>
 </p>
 
 
