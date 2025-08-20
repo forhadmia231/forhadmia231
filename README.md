@@ -1,8 +1,8 @@
-<h2 align = "center" , text color ="#008000">Welcome To My Profile </h2>
- Hi 👋, I'm Md Forhad Mia  
+<h2 align="center" style="color:#008000;">Welcome To My Profile</h2>
+ Hi 👋, I'm Md Forhad Mia,  
  A passionate Computer Science Engineering Student 🚀  
 
-- 🌱 I’m currently learning **Java, Data Structures & Algorithms**  
+- 🌱 I’m currently learning Java, Data Structures & Algorithms**  
 - 💬 Ask me about **Java,And Object orinted Programing **  
 - 📫 How to reach me: **forhadhossain1595@gmail.com**  
 - ⚡ Fun fact: *I love coding , solving problems and deep research !*  
