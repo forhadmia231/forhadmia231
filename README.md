@@ -1,12 +1,12 @@
+<h2 align = "center"> ##Welcome To My Profile </h2>
 # Hi 👋, I'm Md Forhad Mia  
 ### A passionate Computer Science Engineering Student 🚀  
 
 - 🌱 I’m currently learning **Java, Data Structures & Algorithms**  
-- 💬 Ask me about **Java,OOP, DSA**  
+- 💬 Ask me about **Java,And Object orinted Programing **  
 - 📫 How to reach me: **forhadhossain1595@gmail.com**  
-- ⚡ Fun fact: *I love coding and solving problems!*  
+- ⚡ Fun fact: *I love coding , solving problems and deep research !*  
 
----
 
 ## 🌐 Connect with me
 
@@ -15,7 +15,6 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Mdforhad966)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/MdForhadMia/)
-
 
 ---
 
@@ -32,7 +31,6 @@
 
 </p>
 
-
 ---
 
 ## 📊 GitHub Stats:
@@ -40,9 +38,7 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=forhadmia231&show_icons=true&theme=radical" alt="Forhad's GitHub stats" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=forhadmia231&layout=compact&theme=radical" alt="Top Langs" height="165"/>
-</p>
-
-
+</p
 
 ---
 
@@ -50,10 +46,8 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=forhadmia231&theme=radical&border_radius=5)](https://git.io/streak-stats)  
 
 ---
-
 ## 💡 Quote of the Day  
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
 
 ---
-
 ### ❤️ Thanks for visiting my profile!
