@@ -5,7 +5,7 @@
  A passionate Computer Science Engineering Student 🚀  
 
 - 🌱 I’m currently learning Java, Data Structures & Algorithms**  
-- 💬 Ask me about **Java,And Object orinted Programing **  
+- 💬 Ask me about Java,And Object orinted Programing   
 - 📫 How to reach me: **forhadhossain1595@gmail.com**  
 - ⚡ Fun fact: *I love coding , solving problems and deep research !*  
 
